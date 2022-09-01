@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsharma4329&label=Profile%20views&color=a80000&style=plastic" alt="rahulsharma4329" /> </p>
 
-- 🌱 I’m currently learning **NodeJs & Mongo DB**
+- 🌱 I’m currently learning **ReactJS, NodeJS & Mongo DB**
 
 - 👯 I’m looking to collaborate on **WebDev Projects**
 
